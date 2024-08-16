@@ -4,6 +4,11 @@ Love you my friend
 ❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤
 # Yiheng(Ethan) Chi, B.Sc.
 
+<!-- 将照片放在右上角 -->
+<div style="float: right; margin: 0 0 10px 10px;">
+  <img src="ethan-profile.jpg" alt="Yiheng (Ethan) Chi" width="150" />
+</div>
+
 📧 [yiheng.chi@student.adelaide.edu.au](mailto:yiheng.chi@student.adelaide.edu.au) | 
 📧 [chiyiheng268@gmail.com](mailto:chiyiheng268@gmail.com)
 
