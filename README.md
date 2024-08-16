@@ -6,7 +6,7 @@ Love you my friend
 
 <!-- 将照片放在右上角 -->
 <div style="float: right; margin: 0 0 10px 10px;">
-  <img src="ethan-profile.jpg" alt="Yiheng (Ethan) Chi" width="150" />
+  <img src="photo_Glenelg.jpg" alt="Yiheng (Ethan) Chi" width="150" />
 </div>
 
 📧 [yiheng.chi@student.adelaide.edu.au](mailto:yiheng.chi@student.adelaide.edu.au) | 
