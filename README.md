@@ -2,7 +2,7 @@
 ❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤
 Love you my friend
 ❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤
-# Yiheng(Ethan) Chi, B.Sc.
+# Yiheng(Ethan) Chi, B.Math.Sc.(Hons.)
 
 <!-- 将照片放在右上角 -->
 <div style="float: right; margin: 0 0 10px 10px;">
@@ -26,8 +26,8 @@ Love you my friend
 **B.Sc., Ocean University of China** in Mathematics and Applied Mathematics.  
 *Main courses*: SMI, ODE, Advanced Algebra, Optimization, Real Analysis, Complex Analysis, Probability and Statistics, Spatial Analytic Geometry, University Physics and etc.
 
-### 2014 - \.\.\.\.
-**B.Sc., University of Adelaide** in Mathematical Science.  
+### 2024 - \.\.\.\.
+**B.Math.Sc.(Hons.), University of Adelaide** in Mathematical Science.  
 *Main courses*: Random Process, Data Science, Decision Science, and Capstone project.
 
 ---
@@ -45,3 +45,74 @@ Acquired knowledge of securities products, marketing strategies, and the structu
 ### Conference Proceedings
 
 1. **Y. Chi**, “Predictive analysis of Tesla's stock closing prices utilizing LSTM and GRU deep learning models,” in *Proceedings of the 1st International Conference on Data Science and Engineering - ICDSE*, INSTICC, SciTePress, 2024, pp. 422–428, ISBN: 978-989-758-690-3. [DOI: 10.5220/0012807500004547](https://doi.org/10.5220/0012807500004547).
+# Honours and Awards
+
+### 2022-2023
+- 🏅 **China National Scholarship**, awarded by the Ministry of Education of the People's Republic of China (Top 0.1% nationwide, open to undergraduate, master's, and Ph.D. students)
+- 🏅 **First-Class University Scholarship**, awarded by Ocean University of China
+- 🏅 **Honorary Title of "Outstanding Student"**, Ocean University of China
+
+### 2023
+- 🏅 **National Third Prize**, "Zhengda Cup" National University Student Market Research and Analysis Competition, China
+- 🏅 **Provincial Second Prize**, Undergraduate Group of "Higher Education Press" Cup National University Student Mathematical Contest in Modeling, Shandong Province, China
+
+### 2024
+- 🏅 **National Second Prize**, "Huashu Cup" National University Student Mathematical Contest in Modeling, China
+- 🏅 **Finalist Prize Winner**, COMAP’s Mathematical Contest in Modeling (MCM) and Interdisciplinary Contest in Modeling (ICM), worldwide
+
+---
+
+# Skills
+
+### Languages
+- 🏅 Strong reading, writing and speaking competencies for English (British accent), Mandarin Chinese, and adequate speaking competency for Japanese.
+
+### Coding Skills
+- 🏅 Python, R, SQL, LaTeX, MATLAB, C…
+
+### Artistic Interests
+- 🏅 Violin, piano, vocal performance, oil painting, etc.
+
+---
+
+# Miscellaneous Experience
+
+### Research Experience
+
+#### 2023
+- 🏅 **Machine learning for Finance Online Research Seminar**, supervised by Patrick Rebeschini, Professor of Machine Learning Department of Statistics, Oxford University
+
+### Social Practice Experience
+
+#### 2023
+- 🏅 **Rural Revitalization Practice Team in Houguan Village, Shangjie Town**  
+  Selected as an "Outstanding Social Practice Team" (University Level) in the 2023 Summer Social Practice Activities for College Students, Ocean University of China
+
+#### 2023-2024
+- 🏅 **Student Assistance and Public Service Position**, Haide College  
+  Actively participated in and supported various assistance and public service activities.
+
+### Leadership Experience
+
+#### 2022-2023
+- 🏅 **Cultural and Sports Committee Member**, Class of 2022, Mathematics and Applied Mathematics, Haide College
+
+#### 2023-2024
+- 🏅 **Cultural and Sports Committee Member**, Class of 2022, Mathematics and Applied Mathematics, Haide College
+
+---
+
+# Certification
+
+### 2023
+- 🏅 **CET-4 and CET-6 Passed**
+
+### 2024
+- 🏅 **IELTS** Overall Band Score: 7.0
+- 🏅 **GRE** Total Score: 326
+
+---
+
+# References and Additional Information
+
+All materials are **available on request**, please feel free to **contact me**. Thank you!
