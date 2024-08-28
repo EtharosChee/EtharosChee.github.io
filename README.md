@@ -34,6 +34,25 @@ academic performance and research outcome.
 
 ---
 
+## Research Experience
+
+### 2023
+- 🏅 **Machine Learning for Finance Online Research Seminar**, supervised by Patrick Rebeschini, Professor of Machine Learning, Department of Statistics, Oxford University
+
+### 2024
+- 🏅 **Weather Changes Like the Weather Itself, COMAP's ICM Finalist**, developing advanced predictive models to assess the impact of extreme weather on insurance, real estate, and cultural landmarks. The paper involved using SARIMA for weather forecasting, Entropy Weight Method and Analytic Hierarchy Process for risk and estate assessment, and a multi-layer AHP model for landmark protection. [Click here to view the PDF](https://github.com/EtharosChee/EtharosChee.github.io/blob/main/2403378.pdf)
+
+---
+
+## Conference Proceedings
+
+1. **Y. Chi**, “Predictive analysis of Tesla's stock closing prices utilizing LSTM and GRU deep learning models,” in *Proceedings of the 1st International Conference on Data Science and Engineering - ICDSE*, INSTICC, SciTePress, 2024, pp. 422–428, ISBN: 978-989-758-690-3. [DOI: 10.5220/0012807500004547](https://doi.org/10.5220/0012807500004547).
+   
+**Main Research Result:**
+Developed and applied advanced deep learning models (LSTM, GRU) to predict Tesla’s stock prices, demonstrating a hybrid approach's potential effectiveness in capturing volatile financial trends.
+   
+---
+
 ## Internship Experience
 
 ### 2023.07 – 2023.09
@@ -42,12 +61,29 @@ Acquired knowledge of securities products, marketing strategies, and the structu
 
 ---
 
-## Research Publications
+## Professional Activities
 
-### Conference Proceedings
+### Social Experience
 
-1. **Y. Chi**, “Predictive analysis of Tesla's stock closing prices utilizing LSTM and GRU deep learning models,” in *Proceedings of the 1st International Conference on Data Science and Engineering - ICDSE*, INSTICC, SciTePress, 2024, pp. 422–428, ISBN: 978-989-758-690-3. [DOI: 10.5220/0012807500004547](https://doi.org/10.5220/0012807500004547).
-# Honours and Awards
+#### 2023-2024
+- 🏅 **Student Assistance and Public Service Position**, Haide College  
+  Actively participated in and supported various assistance and public service activities.
+
+#### Jul, 2023
+- 🏅 **Rural Revitalization Practice Team in Houguan Village, Shangjie Town**  
+  Selected as an "Outstanding Social Practice Team" (University Level) in the 2023 Summer Social Practice Activities for College Students, Ocean University of China.
+
+### Leadership Experience
+
+#### 2022-2023
+- 🏅 **Cultural and Sports Committee Member**, Class of 2022, Mathematics and Applied Mathematics, Haide College
+
+#### 2023-2024
+- 🏅 **Cultural and Sports Committee Member**, Class of 2022, Mathematics and Applied Mathematics, Haide College
+
+---
+
+## Honours and Awards
 
 ### 2022-2023
 - 🏅 **China National Scholarship**, awarded by the Ministry of Education of the People's Republic of China (Top 0.1% nationwide, open to undergraduate, master's, and Ph.D. students)
@@ -64,7 +100,7 @@ Acquired knowledge of securities products, marketing strategies, and the structu
 
 ---
 
-# Skills
+## Skills
 
 ### Languages
 - 🏅 Strong reading, writing and speaking competencies for English (British accent), Mandarin Chinese, and adequate speaking competency for Japanese.
@@ -77,34 +113,7 @@ Acquired knowledge of securities products, marketing strategies, and the structu
 
 ---
 
-# Miscellaneous Experience
-
-### Research Experience
-
-#### 2023
-- 🏅 **Machine learning for Finance Online Research Seminar**, supervised by Patrick Rebeschini, Professor of Machine Learning Department of Statistics, Oxford University
-
-### Social Practice Experience
-
-#### 2023
-- 🏅 **Rural Revitalization Practice Team in Houguan Village, Shangjie Town**  
-  Selected as an "Outstanding Social Practice Team" (University Level) in the 2023 Summer Social Practice Activities for College Students, Ocean University of China
-
-#### 2023-2024
-- 🏅 **Student Assistance and Public Service Position**, Haide College  
-  Actively participated in and supported various assistance and public service activities.
-
-### Leadership Experience
-
-#### 2022-2023
-- 🏅 **Cultural and Sports Committee Member**, Class of 2022, Mathematics and Applied Mathematics, Haide College
-
-#### 2023-2024
-- 🏅 **Cultural and Sports Committee Member**, Class of 2022, Mathematics and Applied Mathematics, Haide College
-
----
-
-# Certification
+## Certification
 
 ### 2023
 - 🏅 **CET-4 and CET-6 Passed**
@@ -115,14 +124,13 @@ Acquired knowledge of securities products, marketing strategies, and the structu
 
 ---
 
-# References and Additional Information
+## References and Additional Information
 
 Appendix 1: Weather Changes Like Weather Itself, a Finalist paper of COMAP's ICM competition. 
 
-The .pdf file has been uploaded and available here. [Click here to view the PDF](https://github.com/EtharosChee/EtharosChee.github.io/blob/main/2403378.pdf)
+The .pdf file has been uploaded and is available here. [Click here to view the PDF](https://github.com/EtharosChee/EtharosChee.github.io/blob/main/2403378.pdf)
 
 Additional materials are **available on request**, please feel free to **contact me**. Thank you!
-
 ❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤
 Love you my friend
 ❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤
