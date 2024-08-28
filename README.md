@@ -117,9 +117,9 @@ Acquired knowledge of securities products, marketing strategies, and the structu
 
 # References and Additional Information
 
-Appendix 1: Weather Changes Like Weather Itself, a Finalist paper of COMAP's ICM competition. The .pdf file has been uploaded and available here.
+Appendix 1: Weather Changes Like Weather Itself, a Finalist paper of COMAP's ICM competition. 
 
-
+The .pdf file has been uploaded and available here. [Click here to view the PDF](https://github.com/EtharosChee/EtharosChee.github.io/blob/main/2403378.pdf)
 
 Additional materials are **available on request**, please feel free to **contact me**. Thank you!
 
