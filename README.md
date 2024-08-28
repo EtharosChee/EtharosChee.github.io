@@ -1,7 +1,5 @@
 # EtharosChee.github.io
-❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤
-Love you my friend
-❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤
+
 # Yiheng(Ethan) Chi, B.Math.Sc.(Hons.)
 
 <!-- 将照片放在右上角 -->
@@ -15,10 +13,14 @@ Love you my friend
 🐦 [@EtharosChee](https://x.com/EtharosChee) | 
 🔗 [@Yiheng Chi on LinkedIn](https://www.linkedin.com/in/yiheng-chi-4757a2321/)
 
-📍 School of Mathematical Sciences, University of Adelaide, SA 5005, Australia.  
+📍 School of Computer and Mathematical Sciences, University of Adelaide, SA 5005, Australia.  
 🏠 [EtharosChee.github.io](https://EtharosChee.github.io) | ☎️ +61 4 1668 8443
 
 ---
+**Self Evaluation:** I am a Year 3 Mathematical Science student curious about machine learning research and desiring to
+engage in a project related to prediction models and deep learning methodology. I am eager to apply for the university’s
+summer research program, with a strong interest in receiving guidance from an erudite supervisor to improve my
+academic performance and research outcome.
 
 ## Education
 
@@ -115,4 +117,12 @@ Acquired knowledge of securities products, marketing strategies, and the structu
 
 # References and Additional Information
 
-All materials are **available on request**, please feel free to **contact me**. Thank you!
+Appendix 1: Weather Changes Like Weather Itself, a Finalist paper of COMAP's ICM competition. The .pdf file has been uploaded and available here.
+
+
+
+Additional materials are **available on request**, please feel free to **contact me**. Thank you!
+
+❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤
+Love you my friend
+❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤
